@@ -1,0 +1,5 @@
+* GUIX Packages
+
+This repo is not intended to be instructional, of for others to use as
+a channel (though you're welcome to do so), it's just a scratch area
+for me to play with GUIX packages.
